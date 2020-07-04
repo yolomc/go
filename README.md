@@ -1,6 +1,3 @@
-# go
-golang学习笔记
+##  Go 开发者成长路线图
 
-## Hello, World
-
-
+![go](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap/master/i18n/zh-CN/golang-developer-roadmap-zh-CN.png)
